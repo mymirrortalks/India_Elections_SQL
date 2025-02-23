@@ -68,9 +68,6 @@ We welcome contributions! Feel free to:
 - Optimize query performance.
 - Build interactive data visualizations using Python, Tableau, or Power BI.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
----
 📊 **Stay tuned for more data-driven election insights!**
 
